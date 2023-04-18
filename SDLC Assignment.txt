@@ -1,0 +1,37 @@
+Python Assignment:-
+Module 1 (SDLC)
+Date: 17/04/2023
+________________________________________________________________________________________________________________
+Que.1: What is Software?
+Ans.1: Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+	-Software is a set of instructions.
+	-It is opposite of hardware.
+
+Que.2: What are the types of Applications?
+Ans.2: There are many types of Applications.
+	-The types of Applications are as below.
+		-Desktop Application
+		-Web Application
+		-Game Application
+		-Data Science And Data Visualization
+		-Machine Learning And Artificial Intelligence
+		-Web Scraping Applications
+		-Business Applications
+		-Audio And Video Applications
+		-AUTOCAD Applications
+		-Embedded Applications Etc.. 
+
+Que.3: What is Programming?
+Ans.3:  programming is the process of writing code to facilitate specific actions in a computer, application or software program, and instructs them on how to perform.
+
+Que.4: What is Python?
+Ans.4: Python is a popular programming language invented by Guido Van Rossum. it is used for website applications development, mobile applications development, desktop applications development, software development.
+	-Python is a high-level programming language with a syntax that is similar to English, making it an easy choice for beginners to understand.
+
+-
+
+
+
+
+
+		

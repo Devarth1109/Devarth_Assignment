@@ -1,0 +1,41 @@
+Q: How memory is managed in Python?
+A: Python has different memory management rather than other traditional languages.
+- memory manages in block system.
+- The Python memory manager has different components which deal with various dynamic storage management aspects, like sharing, segmentation, preallocation or caching.
+-Memory management in Python involves a private block containing all Python objects and data structures. The management of this private block is ensured internally by the Python memory manager.
+Ex : a = "hello"
+     print(id(a))
+Out : 2216689726960
+
+Q: What is the purpose continue statement in python?
+A: The continue keyword is used to end the current iteration in a for loop (or a while loop), and continues to the next iteration.
+- Example for While loop : i = 0
+                           while i <= 10:
+                                i += 1
+                                if i == 4:
+                                    continue
+                                print(i)
+- Out : 1
+        2
+        3
+        5
+        6
+        7
+        8
+        9
+        10
+        
+- Example for For loop : x = ("apple","banana","chickoo","guava","graps")
+                         for y in x:
+                             if y == "chickoo":
+                                 continue
+                             print(y)
+                             
+- Out : apple
+        banana
+        guava
+        graps
+        
+ Q: What is negative indexing, Why it is used?
+ A: Negative Indexing is used to in Python to begin slicing from the end of the string i.e. the last. Slicing in Python gets a sub-string from a string. The slicing range is set as parameters i.e. start, stop and step.
+                     
